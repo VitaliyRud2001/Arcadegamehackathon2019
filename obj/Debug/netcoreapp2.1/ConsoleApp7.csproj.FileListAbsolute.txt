@@ -1,0 +1,11 @@
+C:\Users\undrfined\source\repos\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.deps.json
+C:\Users\undrfined\source\repos\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.json
+C:\Users\undrfined\source\repos\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.runtimeconfig.dev.json
+C:\Users\undrfined\source\repos\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.dll
+C:\Users\undrfined\source\repos\ConsoleApp7\bin\Debug\netcoreapp2.1\ConsoleApp7.pdb
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfoInputs.cache
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.AssemblyInfo.cs
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.dll
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.pdb
+C:\Users\undrfined\source\repos\ConsoleApp7\obj\Debug\netcoreapp2.1\ConsoleApp7.csprojAssemblyReference.cache
